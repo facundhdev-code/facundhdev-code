@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola! Soy Facundo Herrera
 
-### Frontend Developer → Full-Stack Developer
+### Full-Stack Developer
 
 💼 3+ años desarrollando interfaces responsivas y soluciones backend  
 🎯 Apasionado por código limpio, IA y automatización  
