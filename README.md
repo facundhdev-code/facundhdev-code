@@ -82,9 +82,9 @@
 
   <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=facundhdev-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=facundhdev-code&theme=tokyonight&hide_border=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facundhdev-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=facundhdev-code&theme=tokyonight)
 
   </div>
 
