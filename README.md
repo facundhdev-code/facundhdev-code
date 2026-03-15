@@ -26,6 +26,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend
@@ -63,58 +64,5 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🧠 Especialidades en IA
-
-<div align="center">
-
-| Área | Tecnologías |
-|------|-------------|
-| **RAG (Retrieval-Augmented Generation)** | LangChain, embeddings, vector stores |
-| **Agentes IA** | Agno, LangGraph, herramientas personalizadas |
-| **Multi-Agentes** | Flujos colaborativos, orquestación, CrewAI |
-| **Automatización** | n8n, pipelines con LLMs, workflows inteligentes |
-| **Asistentes IA** | Claude Code, integración con APIs y contexto extendido |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=facundhdev-code&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=facundhdev-code&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Conectemos
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-facundhdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-(mailto:facundhdev@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/facundo-herrera-fullstack-developer)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-facundhdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)]
-(https://facundhdev.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ **¡Gracias por visitar mi perfil!** ⭐️
 
 </div>
